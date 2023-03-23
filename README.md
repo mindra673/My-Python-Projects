@@ -1,2 +1,2 @@
 # My-Python-Projects
-List of basic projects created while learning Python
+List of basic projects created by me while learning Python
