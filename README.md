@@ -4,3 +4,4 @@
 
 Basic projects created by me while learning Python:
   1. Calculator
+  2. Blackjack
