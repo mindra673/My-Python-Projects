@@ -5,6 +5,7 @@
 Basic projects created by me while learning Python:
 
   Beginners:
+  
     1. Calculator
     2. Blackjack
     3. Number Guessing Game
