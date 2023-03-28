@@ -9,3 +9,4 @@ Basic projects created by me while learning Python:
     1. Calculator
     2. Blackjack
     3. Number Guessing Game
+    4. Higher Lower Game
