@@ -10,3 +10,7 @@ Basic projects created by me while learning Python:
     2. Blackjack
     3. Number Guessing Game
     4. Higher Lower Game
+
+  Intermediate:
+  
+    1. Coffee Machine
